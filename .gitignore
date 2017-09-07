@@ -1,2 +1,5 @@
-enron*
+data
+img
 *.pdf
+*.xlsx
+readme.txt
